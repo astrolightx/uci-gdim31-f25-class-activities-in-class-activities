@@ -1,8 +1,8 @@
 # in-class-activities
 ## Devlogs
-### W1
-Write your W1 activity Devlog here.
-
+### Hello World!
+Hello World! The camera will no longer be apart of the cat (like following the cat or in its perspective) because since 
+it is no longer connected to that GameObject, it now has its own free will.
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
