@@ -14,4 +14,5 @@ The camera will no longer be apart of the cat (like following the cat or in its 
 
 3. Input - if they hit the key / Output - beat
 
+4. class - spell book / component - tools like wand / member variable - the casters / method - actual spell 
 
