@@ -9,10 +9,7 @@ The camera will no longer be apart of the cat (like following the cat or in its 
 3. The text said the line was incomplete because it didn't have a semicolon. 
 ### W3
 1.  Input - Player's choice / Output - character dialogue / Players options are determined by the parameters / Parameters - friendship level and if player knows characters secret
-
 2. Input - characters insanity / no return types (void) 
-
 3. Input - if they hit the key / Output - beat
-
 4. class - spell book / component - tools like wand / member variable - the casters / method - actual spell 
-
+5. I think the balls get brighter because the color gets multiplied by the method GetColorMultiplier, making the color of the ball skyrocket whenever it gets hit (the hex codes change).
