@@ -15,6 +15,6 @@ The camera will no longer be apart of the cat (like following the cat or in its 
 4. class - spell book / component - tools like wand / member variable - the casters / method - actual spell 
 5. I think the balls get brighter because the color gets multiplied by the method GetColorMultiplier, making the color of the ball skyrocket whenever it gets hit (the hex codes change).
 
-### W3
+### W4
 1. We added the Rigidbodies to the cat and the ball and we put the IsTrigger in the goal. Rigidbodies to the cat and ball because they actually need to move while the goal doesn't. The IsTrigger for the goal is for the ball to trigger something when it hits the goal. 
 2. The cat was dropping to the side or tilting whenever we hit the ball. The way we fixed this was freezing the position of rotation, specifically X and Z axes. 
