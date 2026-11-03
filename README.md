@@ -18,3 +18,11 @@ The camera will no longer be apart of the cat (like following the cat or in its 
 ### W4
 1. We added the Rigidbodies to the cat and the ball and we put the IsTrigger in the goal. Rigidbodies to the cat and ball because they actually need to move while the goal doesn't. The IsTrigger for the goal is for the ball to trigger something when it hits the goal. 
 2. The cat was dropping to the side or tilting whenever we hit the ball. The way we fixed this was freezing the position of rotation, specifically X and Z axes. 
+
+### W5
+Activity 1
+Since the code is similar for the Cat and Deer script, we copy and paste the CatW5 code into the DeerW5. We also changed the class name from CatW5 to DeerW5.
+The deer needs to move in its own direction and on its own, so we had it start at a certain point then move it towards a specific target. 
+1. The member variables this class needs are the NavMeshAgent and Transform
+2. The methods used are the Start(), Update(), and SetDestination: the start is to start the game, the update to update the movements every frame, and the SetDestination to point in the direction of a specific point.
+
