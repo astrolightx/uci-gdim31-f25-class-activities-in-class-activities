@@ -26,3 +26,10 @@ The deer needs to move in its own direction and on its own, so we had it start a
 1. The member variables this class needs are the NavMeshAgent and Transform
 2. The methods used are the Start(), Update(), and SetDestination: the start is to start the game, the update to update the movements every frame, and the SetDestination to point in the direction of a specific point.
 
+### W7
+Activity 1
+https://docs.google.com/document/d/1ZtUXbaq48lSscmZFjwwkLhq-6Y2Undi4IIagxdTtJH4/edit?usp=sharing
+Activity 2
+1. The member variables the BatW6 has is the the speed of the bats.  
+2. The methods this class needs EnableChase(), & DisableChase(), and the Update() Method. 
+3. The EnableChase when enabled, the bats will follow the player and the Disable Chase when enabled, it will stop bats from moving. The Update method will update every frame when the enemy moves toward the player. 
