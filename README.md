@@ -29,6 +29,7 @@ The deer needs to move in its own direction and on its own, so we had it start a
 ### W7
 Activity 1
 https://docs.google.com/document/d/1ZtUXbaq48lSscmZFjwwkLhq-6Y2Undi4IIagxdTtJH4/edit?usp=sharing
+
 Activity 2
 1. The member variables the BatW6 has is the the speed of the bats.  
 2. The methods this class needs EnableChase(), & DisableChase(), and the Update() Method. 
